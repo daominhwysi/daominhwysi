@@ -1,9 +1,16 @@
-## Hi there 👋
-here are some not so fun facts about me:
-- My code is very dirty
-- Most of my project is vibe coded.
-- I have no idea what the actual fuck I'm doing
-- I'm not consider myself as a developer but rather a enthusiastic person who loves tech and programming.
+# Hi, I'm Minh 👋
+
+I build computer-vision and document-understanding tools.
+
+- 🔭 Current focus: **Document AI** (text + formula + table extraction)
+- 🧠 Interests: OCR, layout analysis, synthetic data generation, segmentation.
+- 🛠️ Main stack: **Python** (CV/ML), plus **TypeScript** for tooling & apps
+- 🌱 Learning: model optimization, better datasets, and productionizing research prototypes
+
+## Contact
+- GitHub: @daominhwysi
+- daominhwysi@gmail.com
+---
 
 ![](https://komarev.com/ghpvc/?username=daominhwysi&color=dc143c)
 
