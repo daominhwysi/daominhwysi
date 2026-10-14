@@ -8,8 +8,9 @@ I build computer-vision and document-understanding tools.
 - 🌱 Learning: model optimization, better datasets, and productionizing research prototypes
 
 ## Contact
-- GitHub: @daominhwysi
-- daominhwysi@gmail.com
+- GitHub: [@daominhwysi](https://github.com/daominhwysi)
+- Huggingface: [@daominhwysi](https://huggingface.co/daominhwysi)
+- Email: daominhwysi@gmail.com
 ---
 
 ![](https://komarev.com/ghpvc/?username=daominhwysi&color=dc143c)
